@@ -11,6 +11,7 @@ h1{
     background-color: black;
     color: white;
     text-align: center;
+    text-shadow: 2px 2px red;
 }
 #para{
     border: 1px solid black;
