@@ -16,7 +16,7 @@ h1{
     border: 1px solid black;
     margin:auto;
     flex: 1;
-    background-color: lightblue;
+    background: linear-gradient(45deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #4b00ff, #ff00ff);
     font-family: 'Times New Roman', serif;
     text-align: justify;
     max-width: 600px;
