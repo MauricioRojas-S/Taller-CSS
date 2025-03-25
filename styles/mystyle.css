@@ -1,16 +1,34 @@
+body{
+    background-image: url("https://i0.wp.com/windowscustomization.com/wp-content/uploads/2019/10/Halo-3.gif?resize=600%2C432&quality=80&strip=all&ssl=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+}
+
 h1{
     font-family: 'Times New Roman', serif;
     background-color: black;
     color: white;
     text-align: center;
-    
-
 }
 #para{
+    border: 1px solid black;
+    margin:auto;
+    flex: 1;
+    background-color: lightblue;
     font-family: 'Times New Roman', serif;
     text-align: justify;
-
+    max-width: 600px;
 }
+.contenedor {
+        display: flex;
+        gap: 20px; 
+        align-items: flex-start; 
+}
+
 img{
+    width: 700; 
+    height: 300;
     display: flex;
 }
